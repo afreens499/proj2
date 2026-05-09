@@ -18,7 +18,7 @@ Partner 1 Name: Afreen shameem
 
 Partner 1 SID: 3039164819
 
-Partner 1 Email: afreens499@berkeley.edu
+Partner 1 Email: afreens@berkeley.edu
 
 Also add a link to this repo below (should start with https://github.com/cs161-students/).
 
